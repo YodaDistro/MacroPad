@@ -1,3 +1,4 @@
+https://imgur.com/a/LxLA4v2
 ## --Required Materials--
 - 3D Printer  
 - PLA Filament  
