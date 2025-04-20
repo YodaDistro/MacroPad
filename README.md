@@ -12,8 +12,14 @@ Hot Glue Gun (Optional)
 
 --Steps--
 1) Download and print case (File listed on this GitHub)
-2) Wire Pico Board according to this diagram (YouTube has great wiring examples on how to solder a 2040 Board)
+2) Wire Pico Board according to this diagram. Where charging port is on your left side horizontally aligned. (YouTube has great wiring examples on how to solder a 2040 Board)
 
+  |
+  |
+[EA]
+[FB]
+[GC]
+[HD]
 Top row (A–D):  GP4, GP5, GP2, GP3  
 Bot row (E–H):  GP8, GP9, GP6, GP7
 
